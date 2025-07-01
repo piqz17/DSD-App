@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\ricardo.piquero.jr\source\repos\DSD Solution v6.0\DSD_WinformsApp\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="View\AddFormView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Custom Classes\CustomButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="View\DetailsFormView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\DocumentMainView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\LoginFormView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
